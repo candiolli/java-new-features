@@ -1,2 +1,6 @@
-# java-new-features
-A simple project to practice and explore new features of Java
+# Get started with new features of Java:
+
+* Flight Record [in progress]
+* Random Generator
+* Sealed Classes
+* Simple HTTP
